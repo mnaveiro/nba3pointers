@@ -39,27 +39,27 @@ It can be find at [Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) a
 ### Findings
 As the time goes by both, the overall attempts and the 3-pointers has been increasing in number but this increment seems to be higher in the later ones. 
 
-![Image](https://github.com/mnaveiro/nba3pointers/blob/master/img/1.png)
+![Image](https://raw.githubusercontent.com/mnaveiro/nba3pointers/master/img/1.png)
 
 
 The percentage of 3-pointers attempted has been growing quickly last years. In the 2016/2017 season 1/3 of the FGA was a 3-pointer. 
 
-![Image](https://github.com/mnaveiro/nba3pointers/blob/master/img/2.png)
+![Image](https://raw.githubusercontent.com/mnaveiro/nba3pointers/master/img/2.png)
 
 
 While the trend in the number of 3-point shoots is clearly up…
 
-![Image](https://github.com/mnaveiro/nba3pointers/blob/master/img/3.png)
+![Image](https://raw.githubusercontent.com/mnaveiro/nba3pointers/master/img/3.png)
 
 
 The number of 2-point shoots decreases year after year 
 
-![Image](https://github.com/mnaveiro/nba3pointers/blob/master/img/4.png)
+![Image](https://raw.githubusercontent.com/mnaveiro/nba3pointers/master/img/4.png)
 
 
 The accuracy of the 3-pointers has also increased with time but, in average, is still far from the 2-point field goals.
 
-![Image](https://github.com/mnaveiro/nba3pointers/blob/master/img/5.png)
+![Image](https://raw.githubusercontent.com/mnaveiro/nba3pointers/master/img/5.png)
 
 ### Limitations
 With this data-set we can analyze the players’ performance inside and beyond the three-point line but to learn if it is worth to move the line back and how far we would also need the coordinates of each attempt. 
