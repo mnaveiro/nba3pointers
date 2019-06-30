@@ -72,7 +72,9 @@ With this data-set we can analyze the players’ performance inside and beyond t
   * It is a matter of fact that players are shooting more and with better percentages than ever but the lever of success is still far from the two point shoots. 
 
 ### Acknowledgements
-This analysis was inspired by ["NBA 3 Point Percentages Through the Years"](https://www.kaggle.com/akeemtlking/nba-3-point-percentages-through-the-years) published by Akeem King in Kaggle. 
+This analysis was inspired by ["NBA 3 Point Percentages Through the Years"](https://www.kaggle.com/akeemtlking/nba-3-point-percentages-through-the-years) published by Akeem King in Kaggle.
+
+Header image taken from [expo.advance.net](https://expo.advance.net/)
 
 ### References
 * Should the NBA move back the 3 Point Line? [Discussion at Reddit](https://www.reddit.com/r/nba/comments/5wkbke/discussion_should_the_nba_move_back_the_3_point/)
